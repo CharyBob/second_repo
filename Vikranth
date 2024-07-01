@@ -1,0 +1,8 @@
+                                                                    │
+    │ ⮞ SSH session to ec2-user@52.66.198.112                              │
+    │   • Direct SSH      :  ✓                                             │
+    │   • SSH compression :  ✓                                             │
+    │   • SSH-browser     :  ✓                                             │
+    │   • X11-forwarding  :  ✗  (disabled or not supported by server)      │
+    │                                                                      │
+    │ ⮞ For more info, ctrl+click on help or visit our website. 
